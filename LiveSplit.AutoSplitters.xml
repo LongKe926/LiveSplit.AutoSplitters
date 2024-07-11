@@ -22296,3 +22296,16 @@
         <Website>https://github.com/aliosgaming/KH2FM_Load_Remover-FOR-RANDOMIZER/blob/main/LiveSplit.KH2Randomizer.asl</Website>
     </AutoSplitter>
 </AutoSplitters>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ghostrunner: Project Hel</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LongKe926/Auto-Split/main/Ghostrunner_Projecthel.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Applied to "Ghostrunner:Project Project" autosplitting</Description>
+        <Website>https://github.com/LongKe926/Auto-Split/blob/main/Ghostrunner_Projecthel.asl</Website>
+    </AutoSplitter>
+</AutoSplitters>
